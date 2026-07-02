@@ -1,4 +1,4 @@
-# book-my-event
+# Booking Event
 
 A highly scalable event booking platform built with a modern microservices architecture to handle high traffic and guarantee zero overselling.
 
